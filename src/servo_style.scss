@@ -2,6 +2,14 @@
 
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
 
-
-
+$navy_blue: #18121E;
+$gunmetal: #233237;
+$rusty_red: #984B43;
+$warm_yellow: #EAC67A;
+$nave_light: rgb(143, 62, 116);
+$primary: $navy_blue;
+$info: $gunmetal;
+$warning: $warm_yellow;
+$danger: $rusty_red;
+$hr-background-color: black;
 @import "../node_modules/bulma/bulma.sass";
